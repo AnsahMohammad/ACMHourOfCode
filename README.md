@@ -14,7 +14,7 @@ To download all the files as one folder follow these steps -
 ## Team Members
 - [Ansah Mohammad](https://github.com/AnsahMohammad)
 - [Garvit Shah](https://github.com/gobbledy-gook)
-- Bhavya Hirani
-- Shubh Gajjar
+- [Bhavya Hirani](https://github.com/BHsketch)
+- [Shubh Gajjar](https://github.com/Shubhgajj2004)
 - [Yash Pokar](https://github.com/yd3112)
 - [Pragnesh Barik](https://github.com/pragneshbarik)
